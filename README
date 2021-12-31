@@ -1,0 +1,14 @@
+# Brick Game
+
+### Description:
+
+A regular brick break game built with Vanilla JS.
+
+### Setup 
+
+1. Clone the repo
+2. Launch `index.html` with a browser
+
+### Game Instructions:
+
+1. Left arrow key and right arrow key navigates the reflecting log.
